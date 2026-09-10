@@ -26,8 +26,8 @@ Soy una profesional apasionada por la tecnología, el desarrollo web y el asegur
 
 ### 📂 Proyectos Destacados
 
-* **🛒 E-Commerce React.js:** Aplicación web funcional con gestión de estado, autenticación de usuarios, CRUD de productos y rutas protegidas.
-* **⚡ API RESTful Node.js & Express:** Desarrollo de API con arquitectura REST y operaciones CRUD completas.
+* 🛒 **[E-Commerce React.js](https://github.com/J-code-bit/react-proyecto-final-jimena-ruiz.git):** Aplicación web funcional con gestión de estado, autenticación de usuarios, CRUD de productos y rutas protegidas.
+* ⚡ **[API RESTful Node.js & Express](https://github.com/J-code-bit/node-api-rest-jr.git):** Desarrollo de API con arquitectura REST y operaciones CRUD completas.
 * **🐍 Proyecto CRUD Python:** Sistema creado en equipo aplicando buenas prácticas y metodologías ágiles.
 * **📱 Prototipado UX/UI:** Investigación de usuarios y diseño interactivo para aplicaciones móviles.
 
