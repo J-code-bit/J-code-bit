@@ -26,6 +26,7 @@ Soy una profesional apasionada por la tecnología, el desarrollo web y el asegur
 
 ### 📂 Proyectos Destacados
 
+* 🧪 **[QA Testing Manual & Gestión de Defectos](https://github.com/J-code-bit/qa-manual-testing-projects):** Documentación completa de ciclo de pruebas, diseño de casos de prueba funcionales/UI, gestión de métricas y reporte de bugs en Jira para web de consultora IT.
 * 🛒 **[E-Commerce React.js](https://github.com/J-code-bit/react-proyecto-final-jimena-ruiz.git):** Aplicación web funcional con gestión de estado, autenticación de usuarios, CRUD de productos y rutas protegidas.
 * ⚡ **[API RESTful Node.js & Express](https://github.com/J-code-bit/node-api-rest-jr.git):** Desarrollo de API con arquitectura REST y operaciones CRUD completas.
 * 🐍 **[Sistema de Gestión de Biblioteca en Python](https://github.com/tu-usuario/nombre-del-repo):** Aplicación de consola con autenticación, CRUD completo, persistencia en JSON e interfaz de usuario estilizada con Colorama.Creado en equipo aplicando buenas prácticas y metodologías ágiles.
