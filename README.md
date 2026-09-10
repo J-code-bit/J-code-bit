@@ -1,5 +1,3 @@
-<img src="https://github.com/J-code-bit.png" width="150" height="150" style="border-radius: 50%;" alt="Jimena Soledad Ruiz">
-
 # ¡Hola! Soy Jimena Ruiz 👋
 
 ### 👩‍💻 Desarrolladora Front-End & QA Tester (Manual & Automation)
