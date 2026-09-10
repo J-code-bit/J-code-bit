@@ -1,16 +1,40 @@
-## Hi there 👋
+# ¡Hola! Soy Jimena Ruiz 👋
 
-<!--
-**J-code-bit/J-code-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Desarrolladora Front-End & QA Tester (Manual & Automation)
 
-Here are some ideas to get you started:
+Soy una profesional apasionada por la tecnología, el desarrollo web y el aseguramiento de la calidad del software. Cuento con formación práctica en desarrollo **Full-Stack** (React, Node.js) y **QA Testing**, complementada con una sólida trayectoria previa en control de calidad, atención al detalle y gestión de proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Aseguramiento de Calidad (QA):**
+- QA Manual Testing, QA Automation (en curso)
+- Diseño y ejecución de casos de prueba, reporte y seguimiento de bugs
+- Testing de APIs REST (Postman)
+
+**Desarrollo Front-End:**
+- JavaScript (ES6+), React.js, HTML5, CSS3, Responsive Design
+
+**Desarrollo Back-End:**
+- Node.js, Express.js, desarrollo e integración de APIs RESTful
+
+**Otras Herramientas & Diseño:**
+- Git, GitHub, Python (básico), Figma, UX/UI, herramientas de accesibilidad
+
+---
+
+### 📂 Proyectos Destacados
+
+* **🛒 E-Commerce React.js:** Aplicación web funcional con gestión de estado, autenticación de usuarios, CRUD de productos y rutas protegidas.
+* **⚡ API RESTful Node.js & Express:** Desarrollo de API con arquitectura REST y operaciones CRUD completas.
+* **🐍 Proyecto CRUD Python:** Sistema creado en equipo aplicando buenas prácticas y metodologías ágiles.
+* **📱 Prototipado UX/UI:** Investigación de usuarios y diseño interactivo para aplicaciones móviles.
+
+---
+
+### 📬 Contacto & Redes
+
+- 💼 **LinkedIn:** [linkedin.com/in/jimena-soledad-ruiz-b5621524](https://www.linkedin.com/in/jimena-soledad-ruiz-b5621524)
+- ✉️ **Email:** jimenasoledadruiz@gmail.com
+- 📍 **Ubicación:** CABA, Buenos Aires, Argentina
